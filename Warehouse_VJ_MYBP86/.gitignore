@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# Allow directories so exceptions work
+!*/
+
+# Keep only source & docs
+!*.py
+!README.md
+!.gitignore
+!.flake8
+
+#!LICENSE
+#!requirements.txt
